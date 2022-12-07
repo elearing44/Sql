@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sql</string>
+    <string name="book_type">BookType</string>
+    <string name="description">Description</string>
+    <string name="bookname">BookName</string>
+
+</resources>

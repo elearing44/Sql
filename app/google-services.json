@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60952868278",
+    "firebase_url": "https://elearning-853de-default-rtdb.firebaseio.com",
+    "project_id": "elearning-853de",
+    "storage_bucket": "elearning-853de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60952868278:android:53f951b004f3b48754fd17",
+        "android_client_info": {
+          "package_name": "com.mahmoudrabie.sql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60952868278-5m3rq3ljm2bicq0eolv85bnhiocepk5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdY_3xVjBxXm4m-ZvwMa20a55javNKss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60952868278-5m3rq3ljm2bicq0eolv85bnhiocepk5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
